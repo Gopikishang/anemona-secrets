@@ -59,4 +59,4 @@ See [CHANGELOG.md](https://github.com/mygnet/anemona-secrets/blob/main/CHANGELOG
 
 ### *License*
 
-See [LICENSE](https://github.com/mygnet/anemona-secrets/blob/main/LICENCE)
+See [LICENSE](https://github.com/mygnet/anemona-secrets/blob/main/LICENCE) 
